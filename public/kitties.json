@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Fluffy",
+        "age": "2 years old",
+        "img": "https://images.unsplash.com/photo-1573865526739-10659fec78a5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8Y2F0c3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "breed": "Persian"
+    },
+    {
+        "name": "Whiskers",
+        "age": "4 years old",
+        "img": "https://plus.unsplash.com/premium_photo-1675848495392-6b9a3b962df0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8Y2F0c3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "breed": "Siamese"
+    },
+    {
+        "name": "Mittens",
+        "age": "1 year old",
+        "img": "https://images.unsplash.com/photo-1495360010541-f48722b34f7d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8Y2F0c3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "breed": "American Shorthair"
+    },
+    {
+        "name": "Socks",
+        "age": "3 years old",
+        "img": "https://images.unsplash.com/photo-1533738363-b7f9aef128ce?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8Y2F0c3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "breed": "British Shorthair"
+    },
+    {
+        "name": "Tiger",
+        "age": "5 years old",
+        "img": "https://images.unsplash.com/photo-1618826411640-d6df44dd3f7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8Y2F0c3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "breed": "Bengal"
+    },
+    {
+        "name": "Luna",
+        "age": "6 months old",
+        "img": "https://plus.unsplash.com/premium_photo-1667030489905-d8e6309ebe0e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8Y2F0c3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "breed": "Maine Coon"
+    },
+    {
+        "name": "Oscar",
+        "age": "7 years old",
+        "img": "https://images.unsplash.com/photo-1526336024174-e58f5cdd8e13?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OHx8Y2F0c3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "breed": "Sphynx"
+    },
+    {
+        "name": "Simba",
+        "age": "2 years old",
+        "img": "https://images.unsplash.com/photo-1596854407944-bf87f6fdd49e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGNhdHN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "breed": "Ragdoll"
+    },
+    {
+        "name": "Boots",
+        "age": "1 year old",
+        "img": "https://images.unsplash.com/photo-1519052537078-e6302a4968d4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGNhdHN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "breed": "Scottish Fold"
+    },
+    {
+        "name": "Garfield",
+        "age": "8 years old",
+        "img": "https://images.unsplash.com/photo-1543852786-1cf6624b9987?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTV8fGNhdHN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "breed": "Exotic Shorthair"
+    }
+]
