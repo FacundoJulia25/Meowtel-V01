@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+    h1 {
+        @apply border border-black rounded-lg bg-amber-500 p-2 text-white font-bold text-2xl;
+    }
+    h2{
+        @apply text-white text-xl;
+    }
+    nav{
+        @apply flex p-4 border rounded-md flex-wrap justify-between
+    }
+    .nav-items{
+        @apply font-semibold; 
+    }
+    
+}
+
+@layer components{
+    .nav-items{
+        @apply place-content-between flex ;
+    }
+    .nav-items a{
+        @apply text-black text-xl mx-5 py-2
+    }
+}
